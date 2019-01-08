@@ -4,6 +4,8 @@ title: CS64, Fall 2018, zmatni
 
 # {{site.course}}, {{site.quarter}}
 
+<p><font color="red" size="28"><b>THIS CLASS IS NOW CLOSED.<br/>MATERIAL HERE DOES NOT APPLY TO FUTURE QUARTERS.</b></font></p>
+
 <!-- comment -->
 
 <div id="info" data-role="collapsible" data-collapsed="false">
